@@ -22,8 +22,8 @@ iframe：
 参考https://www.supermap.com/events/gtc2017/
 
 如何弹出全屏视频呢
-<code>
-	<div class="vdobox">
+
+<div class="vdobox">
 	<video id="mario-video" controls autoplay="autoplay" style="display: none;">
 		<source src="">
 	</video>
@@ -68,4 +68,4 @@ iframe：
 		);
 	}
 </script>
-</code>
+
